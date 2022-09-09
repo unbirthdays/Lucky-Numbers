@@ -11,4 +11,4 @@ function luckyNumbers(n) {
     return luckyNumber;
 };
 
-console.log(luckyNumbers(6));
+console.log(luckyNumbers(6)); // arbitrary number for input
